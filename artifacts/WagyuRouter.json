@@ -1,5 +1,5 @@
 {
-  "contractName": "WagyuRouter",
+  "contractName": "DotDexRouter",
   "abi": [
     {
       "inputs": [
